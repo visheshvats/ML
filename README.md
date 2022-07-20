@@ -29,7 +29,7 @@ Deep learning for stock prediction using numerical and textual information- Ryo 
 
 
 
-##Datasets
+##Datasets:
 
 
 Historical stock prices: https://finance.yahoo.com/
