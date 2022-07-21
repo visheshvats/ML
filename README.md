@@ -9,7 +9,7 @@ LinkedIn: https://www.linkedin.com/in/vatsvishesh/
 
 GitHub: https://github.com/visheshvats
 
-In this task I tried to create a hybrid model for stock performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
+In this task, I tried to create a hybrid model for stock performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
 
 ## Approach:
 Extract Sentiment Scores from given newspaper headlines data, with the help of nltk's SentimentIntensityAnalyzer
