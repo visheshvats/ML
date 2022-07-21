@@ -15,7 +15,7 @@ In this task I tried to create a hybrid model for stock performance prediction u
 Extract Sentiment Scores from given newspaper headlines data, with the help of nltk's SentimentIntensityAnalyzer
 
 
-I have used stack LSTM (Long Short-Term Memory), to model the temporal effects of past events(both Textual, i.e the sentiment scores and Historical stock data) on opening prices
+I have used stack LSTM (Long Short-Term Memory), to model the temporal effects of past events(both Textual, i.e the sentiment scores and Historical stock data) on Closing prices.
 
 Achieved Training loss: 0.001  and Test loss: 0.0018 
 
