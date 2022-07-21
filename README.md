@@ -17,9 +17,9 @@ Extract Sentiment Scores from given newspaper headlines data, with the help of n
 
 I have used stack LSTM (Long Short-Term Memory), to model the temporal effects of past events(both Textual, i.e the sentiment scores and Historical stock data) on opening prices
 
-Achieved Training loss:0.001  and Test loss:0.0018 
+Achieved Training loss: 0.001  and Test loss: 0.0018 
 
-Achieved RMSE on the Test data :19.6623 
+Achieved RMSE on the Test data: 19.6623 
 
 
 ## References:
